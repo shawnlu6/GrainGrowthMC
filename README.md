@@ -14,8 +14,9 @@ Three-dimensional Monte Carlo simulation for grain growth in Julia.
 ## Quick start
 
 - Clone the repository: `git clone https://github.com/shawnlu6/GrainGrowthMC.git`
-- Navigate to the project directory: `cd GrainGrowthMC/examples`
-- Activate the project environment: `julia --project=.. run_mc.jl`
+- Navigate to the project directory: `cd GrainGrowthMC/src`
+- Activate the project environment: `
+julia --project=.. run_mc.jl`
 - Visualize the results in "output" directory use ParaView.
 
 ## Simulation parameters
